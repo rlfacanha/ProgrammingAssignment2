@@ -1,4 +1,4 @@
-#As the assignment states, assuming that the matrix supplied is always invertible.
+#As the assignment states assuming that the matrix supplied is always invertible.
 #Import library to use function inv() to calculate inverse of a matrix
 library(matlib)
 ## Function makeCacheMatrix() creates an R object that stores a matrix and its inverse.
